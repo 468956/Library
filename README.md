@@ -40,5 +40,13 @@ A book can only be lended 3 times by person
 
 # Return a book
 
+Label a book as returned if the status is "lended"
 
+## Show lended books
+
+We need to show the dictionary elements with status "Lended" showing who lended it and when
+
+## Delete a book
+
+Delete a dictionary element only if the status is "Available"
 
