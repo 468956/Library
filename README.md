@@ -53,9 +53,7 @@ Delete a dictionary element only if the status is "Available"
 2. A .py per function
 3. Readme
 
-# Functions and variable names
-
-Functions:
+# Functions:
 
 1. Register_a_book()
 
@@ -71,13 +69,13 @@ Functions:
 
 7. Delete_a_book()
 
-General functions:
+# General functions:
 
 1. show_menu
 2. clear_screen
 3. ANSI colors
 
-Variables:
+# Variables:
 
 1. addAnotherBook = True
 2. findBook
