@@ -29,12 +29,9 @@ Here we need to change a book status based on:
 
 Is it available?
 
-
 The book exist and is not lended?
 
-
 Register lender name and date using datetime
-
 
 A book can only be lended 3 times by person
 
@@ -50,3 +47,33 @@ We need to show the dictionary elements with status "Lended" showing who lended 
 
 Delete a dictionary element only if the status is "Available"
 
+# Code structure
+
+1. General functions
+2. A .py per function
+3. Readme
+
+# Functions and variable names
+
+Functions:
+
+1. Register_a_book()
+
+2. Show_books()
+
+3. Search_a_book()
+
+4. Lend_a_book()
+
+5. Return_a_book()
+
+6. Show_lended_books()
+
+7. Delete_a_book()
+
+Variables:
+
+1. addAnotherBook = True
+2. findBook
+3. valid = True
+4. library = []
