@@ -71,6 +71,12 @@ Functions:
 
 7. Delete_a_book()
 
+General functions:
+
+1. show_menu
+2. clear_screen
+3. ANSI colors
+
 Variables:
 
 1. addAnotherBook = True
